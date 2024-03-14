@@ -36,7 +36,7 @@ return {
 					},
 					{
 						desc = "󰅚 Quit",
-						action = "<cmd> qa <CR>",
+						action = "qa",
 						key = "q",
 					},
 				},

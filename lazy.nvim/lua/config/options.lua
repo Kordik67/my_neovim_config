@@ -32,6 +32,8 @@ vim.opt.splitbelow = true
 vim.opt.splitright = true
 vim.opt.splitkeep = "cursor"
 vim.opt.mouse = ""
+vim.opt.conceallevel = 1
+vim.opt_local.conceallevel = 1
 
 -- Undercurl
 vim.cmd([[let &t_Cs = "\e[4:3m"]])
